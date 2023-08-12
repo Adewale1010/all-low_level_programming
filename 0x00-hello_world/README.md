@@ -3,3 +3,4 @@
 2-assembler generates the assembly code of a C code and saves it in an output file
 3-name compiles a C file and creates an executable named cisfun
 4-puts.c is a C program that prints exactly "Programming is like building a multilingual puzzle
+5-printf.c is a C program that prints exactly with proper grammar, but the outcome is a piece of art,
