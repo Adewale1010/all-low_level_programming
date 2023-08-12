@@ -5,3 +5,4 @@
 4-puts.c is a C program that prints exactly "Programming is like building a multilingual puzzle
 5-printf.c is a C program that prints exactly with proper grammar, but the outcome is a piece of art,
 6-size.c is a C program that prints the size of various types on the computer it is compiled and run on
+101-intel generates the assembly code(intel syntax) of a C file and save it in an output file
