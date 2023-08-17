@@ -9,3 +9,4 @@ This repository contains solutions to my task for C-Functions and nested loops a
 7-print_last_digit: C program that prints the last digit of a number
 8-24_hours.c: C program that prints every minute of the day of Jack Bauer, from 00:00 to 23:59
 9-times_table.c: C program that prints the 9 times table starting with 0
+10-add.c: C program that adds two integers and return the result
