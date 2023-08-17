@@ -12,3 +12,4 @@ This repository contains solutions to my task for C-Functions and nested loops a
 10-add.c: C program that adds two integers and return the result
 11-print_to_98.c: C program that prints all natural numbers from n to 98, followed by a new line
 100-times_table.c: C program that prints the n times table, followed by a new line
+101-natural.c: C program that list all the natural numbers below 1024 (excluded) that are multiples of 3 or 5
