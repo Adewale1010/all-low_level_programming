@@ -5,3 +5,4 @@ This repository contains solutions to my task for C-Functions and nested loops a
 3-islower.c: C program that checks if a character is lowercase
 4-isalpha.c: C program that checks if a character is an alphabet
 5-sign.c: C program that prints the sign of a number
+6-abs.c: C program that computes the absolute value of an integer
