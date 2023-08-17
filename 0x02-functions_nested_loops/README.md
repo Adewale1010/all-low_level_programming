@@ -14,3 +14,4 @@ This repository contains solutions to my task for C-Functions and nested loops a
 100-times_table.c: C program that prints the n times table, followed by a new line
 101-natural.c: C program that list all the natural numbers below 1024 (excluded) that are multiples of 3 or 5
 102-fibonacci.c: C program that prints the first 50 Fibonacci numbers, starting with 1 and 2, separated by a comma followed by a space
+103-fibonacci.c: C program that prints the sum of all even-valued Fibonacci sequence terms not exceeding 4000000
