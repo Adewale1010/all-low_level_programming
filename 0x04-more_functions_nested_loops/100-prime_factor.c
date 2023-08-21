@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 /**
  * main - Finds and prints the largest
@@ -9,24 +10,19 @@
 
 int main(void)
 {
-	long prime = 612852475143, div;
+	long prime, maxfac;
+	long number = 612852475143;
+	double square = sqrt(number);
 
-	while (div < (prime / 2))
+	for (primt = 1; prime <= square; prime++)
 	{
-		if ((prime % 2) == 0)
+		if (number % prime == 0)
 		{
-			prime /= 2;
-			continue;
-		}
-
-		for (div = 3; div < (prime / 2); div += 2)
-		{
-			if ((prime % div) == 0)
-				prime /= div;
+			maxfac = number / prime;
 		}
 	}
 
-	printf("%1d\n", prime);
+	printf("%1d\n", maxfac);
 
 	return (0);
 }
