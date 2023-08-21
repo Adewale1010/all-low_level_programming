@@ -9,8 +9,9 @@
 
 int main(void)
 {
-	long pf, num = 612852475143;
+	long int pf, num;
 
+	num = 612852475143;
 	for (pf = 2; pf <= num; pf++)
 	{
 		if (num % pf == 0)
