@@ -7,16 +7,16 @@
 
 void print_square(int size);
 {
-	int height, width;
+	int hght, widt;
 
 	if (size > 0)
 	{
-		for (height = 0; height < size; height++)
+		for (hght = 0; hght < size; hght++)
 		{
-			for (width = 0; width < size; width++)
+			for (widt = 0; widt < size; widt++)
 				_putchar('#');
 
-			if (height == size - 1)
+			if (hght == size - 1)
 				continue;
 			_putchar('\n');
 		}
