@@ -14,7 +14,7 @@ int main(void)
 	long number = 612852475143;
 	double square = sqrt(number);
 
-	for (primt = 1; prime <= square; prime++)
+	for (prime = 1; prime <= square; prime++)
 	{
 		if (number % prime == 0)
 		{
