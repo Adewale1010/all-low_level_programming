@@ -7,3 +7,4 @@ Continuation on nested loops and functions in C
 5-more_numbers.c: C program that prints 10 times the numbers, from 0 to 14
 6-print_line.c: C program that draws a straight line in the terminal
 7-print_diagonal.c: C program that prints a diagonal line to the terminal using the character \
+8-print_square.c: C program that prints a square to the terminal using the character #
