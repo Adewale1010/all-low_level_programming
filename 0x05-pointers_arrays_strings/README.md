@@ -4,3 +4,4 @@ My solutions to the C pointers, arrays and strings task at ALX SE
 2-strlen.c: C program that returns the lengthof a string
 3-puts.c: C program that prints a string to stdout
 4-print_rev.c: C program that prints a string in reverse
+5-rev_string.c: C program that reverses a string
