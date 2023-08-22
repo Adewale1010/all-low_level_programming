@@ -5,3 +5,4 @@ My solutions to the C pointers, arrays and strings task at ALX SE
 3-puts.c: C program that prints a string to stdout
 4-print_rev.c: C program that prints a string in reverse
 5-rev_string.c: C program that reverses a string
+6-puts.c: C program that prints every other character of a string, starting from the first character
