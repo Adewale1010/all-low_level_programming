@@ -7,3 +7,4 @@ My solutions to the C pointers, arrays and strings task at ALX SE
 5-rev_string.c: C program that reverses a string
 6-puts.c: C program that prints every other character of a string, starting from the first character
 7-puts_half.c: C program that prints half of a string
+8-print_array.c: C program that prints n elements of an array of integer
