@@ -3,3 +3,4 @@ My solutions to the C pointers, arrays and strings task at ALX SE
 1-swap.c: C program that swaps the values of two integers
 2-strlen.c: C program that returns the lengthof a string
 3-puts.c: C program that prints a string to stdout
+4-print_rev.c: C program that prints a string in reverse
