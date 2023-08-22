@@ -1,0 +1,2 @@
+My solutions to the C pointers, arrays and strings task at ALX SE
+0-reset_to_98.c: C program that takes a pointer to an int as parameter and updates it value to 98
