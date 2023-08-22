@@ -8,3 +8,4 @@ My solutions to the C pointers, arrays and strings task at ALX SE
 6-puts.c: C program that prints every other character of a string, starting from the first character
 7-puts_half.c: C program that prints half of a string
 8-print_array.c: C program that prints n elements of an array of integer
+9-strcpy.c: C program that copies a string pointed to by src, including the terminating null byte, to the buffer pointed to by dest
