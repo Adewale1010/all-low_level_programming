@@ -1,1 +1,1 @@
-This repository contains my solutions to the low-level programming projects at ALX SE
+This repository contains solutions to my ALX low level programming task at ALX SE
