@@ -5,3 +5,4 @@ My solutions to C - Even more pointers, arrays and strings tasks at ALX SE
 3-strspn.c: C program that gets the length of a prefix substring
 4-strpbrk.c: C program that searxhes a string for any set of bytes
 5-strstr.c: C program that locates a substring
+7-print_chessboard.c: C program that  prints the chessboard
