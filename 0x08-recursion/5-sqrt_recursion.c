@@ -20,7 +20,7 @@ int _sqrt(int num, int root)
 	if (root == num / 2)
 		return (-1);
 
-	return (find_sqrt(num, root + 1));
+	return (_sqrt(num, root + 1));
 }
 
 /**
