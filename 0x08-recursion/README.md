@@ -5,3 +5,4 @@ My solutions to C recursion tasks at ALX SE
 3-factorial.c: C program that returns the factorial of a given number
 4-pow_recursion.c: C program that returns the value of x raised to the power of y
 5-sqrt_recursion.c: C program that returns the natural square root of a given number
+6-is_prime_number: C program tha checks if a number is prime
