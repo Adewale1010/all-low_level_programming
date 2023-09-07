@@ -11,7 +11,7 @@
  * Otherwise - a pointer to the 2-dimensional array of integers.
  */
 
-int **alloc_grid(ind width, int height)
+int **alloc_grid(int width, int height)
 {
 	int **two_D;
 	int height_i, width_i;
