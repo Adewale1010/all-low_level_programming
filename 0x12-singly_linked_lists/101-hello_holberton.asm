@@ -18,4 +18,4 @@ main:
 
 section .data
 	msg: db"Hollo, Holberton", 0
-fmt: db "%s", 100, 0
+	fmt: db "%s", 10, 0
