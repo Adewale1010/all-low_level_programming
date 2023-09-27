@@ -3,3 +3,4 @@ My solutions to C-more singly linked lists tasks at ALX SE
 1-listint_len.c: C function that returns the number of elements in a linked listint_t list
 add_nodeint_end.c: C function that adds a new node at the end of a listint_t list
 4-free_listint.c: C function that frees a listint_t list
+4-free_listint.c: C function that frees a listint_t list
