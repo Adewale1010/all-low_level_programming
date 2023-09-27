@@ -5,3 +5,4 @@ add_nodeint_end.c: C function that adds a new node at the end of a listint_t lis
 4-free_listint.c: C function that frees a listint_t list
 4-free_listint.c: C function that frees a listint_t list
 5-free_listint2.c: C function that frees a listint_t list
+6-pop_listint.c: C function that deletes the head of node of a listint_t list
