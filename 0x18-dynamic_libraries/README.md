@@ -20,3 +20,4 @@ libdynamic.so: C dynamic library containing all the functions listed below:
 	unsigned int _strspn(char *s, char *accept);
 	char *_strpbrk(char *s, char *accept);
 	char *_strstr(char *haystack, char *needle);
+1-create_dynamic_lib.sh: Bash script that creates a dynamic library called liball.so from all the .c files in the current directory
