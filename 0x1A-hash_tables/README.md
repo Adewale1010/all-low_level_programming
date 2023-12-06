@@ -15,3 +15,7 @@ My Solutions to C - Hash tables tasks at ALX SE
 
 3. >>> ht['betty'] = 'cool'
 	3-hash_table_set.c: C function that adds an element to the hash table.
+
+
+4. >>> ht['betty']
+	4-hash_table_get.c: C function that retrieves a value associated with a key.
