@@ -23,3 +23,7 @@ My Solutions to C - Hash tables tasks at ALX SE
 
 5. >>> print(ht)
 	5-hash_table_print.c: C function that prints a hash table.
+
+
+6. >>> del ht
+	6-hash_table_delete.c: C function that deletes a hash table.
