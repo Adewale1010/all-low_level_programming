@@ -11,3 +11,7 @@ My Solutions to C - Hash tables tasks at ALX SE
 
 2. key -> index
 	2-key_index.c: C function that gives you the index of a key.
+
+
+3. >>> ht['betty'] = 'cool'
+	3-hash_table_set.c: C function that adds an element to the hash table.
