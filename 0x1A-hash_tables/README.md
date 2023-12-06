@@ -19,3 +19,7 @@ My Solutions to C - Hash tables tasks at ALX SE
 
 4. >>> ht['betty']
 	4-hash_table_get.c: C function that retrieves a value associated with a key.
+
+
+5. >>> print(ht)
+	5-hash_table_print.c: C function that prints a hash table.
